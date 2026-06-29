@@ -1,6 +1,6 @@
 d# AWS-Data-Analytics-Portfolio
 AWS, Data Analytics, and Python project showcasing cloud-based data processing concepts.
-# AWS Data Analytics Portfolio
+# AWS Data Analytics Portfolio project 
 
 ## Overview
 This project demonstrates my learning in cloud computing, data analytics, and AWS services.
@@ -19,3 +19,16 @@ The project focuses on building scalable data workflows and understanding cloud-
 
 ## Author
 Uday
+
+## Project Goals
+
+- Understand AWS cloud-based data analytics workflows
+- Explore data storage and processing using AWS services
+- Learn how to design scalable analytics solutions
+
+## Future Improvements
+
+- Add real datasets
+- Build ETL pipelines using AWS Glue
+- Create dashboards using Amazon QuickSight
+- Add machine learning models using Amazon SageMaker
